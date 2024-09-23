@@ -1,0 +1,184 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "age": 25,
+        "weight": 70.5
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 30,
+        "weight": 62.3
+      },
+      {
+        "id": 3,
+        "name": "Emily Johnson",
+        "age": 22,
+        "weight": 55.0
+      },
+      {
+        "id": 4,
+        "name": "Michael Brown",
+        "age": 28,
+        "weight": 80.2
+      },
+      {
+        "id": 5,
+        "name": "Sophia Martinez",
+        "age": 27,
+        "weight": 58.4
+      },
+      {
+        "id": 6,
+        "name": "David Lee",
+        "age": 35,
+        "weight": 76.1
+      },
+      {
+        "id": 7,
+        "name": "Emma Davis",
+        "age": 29,
+        "weight": 68.9
+      },
+      {
+        "id": 8,
+        "name": "Liam Garcia",
+        "age": 32,
+        "weight": 85.0
+      },
+      {
+        "id": 9,
+        "name": "Olivia Martinez",
+        "age": 24,
+        "weight": 59.2
+      },
+      {
+        "id": 10,
+        "name": "Noah Wilson",
+        "age": 26,
+        "weight": 74.3
+      },
+      {
+        "id": 11,
+        "name": "Ava Taylor",
+        "age": 21,
+        "weight": 53.7
+      },
+      {
+        "id": 12,
+        "name": "Isabella Anderson",
+        "age": 27,
+        "weight": 61.5
+      },
+      {
+        "id": 13,
+        "name": "James Thomas",
+        "age": 33,
+        "weight": 78.0
+      },
+      {
+        "id": 14,
+        "name": "Charlotte Jackson",
+        "age": 25,
+        "weight": 57.4
+      },
+      {
+        "id": 15,
+        "name": "Mia White",
+        "age": 23,
+        "weight": 54.8
+      },
+      {
+        "id": 16,
+        "name": "Lucas Harris",
+        "age": 30,
+        "weight": 82.3
+      },
+      {
+        "id": 17,
+        "name": "Benjamin Clark",
+        "age": 28,
+        "weight": 79.5
+      },
+      {
+        "id": 18,
+        "name": "Mason Rodriguez",
+        "age": 31,
+        "weight": 81.7
+      },
+      {
+        "id": 19,
+        "name": "Elijah Lewis",
+        "age": 34,
+        "weight": 77.9
+      },
+      {
+        "id": 20,
+        "name": "Amelia Walker",
+        "age": 26,
+        "weight": 60.2
+      },
+      {
+        "id": 21,
+        "name": "Evelyn Hall",
+        "age": 22,
+        "weight": 55.6
+      },
+      {
+        "id": 22,
+        "name": "Henry Allen",
+        "age": 29,
+        "weight": 83.4
+      },
+      {
+        "id": 23,
+        "name": "Alexander Young",
+        "age": 30,
+        "weight": 84.8
+      },
+      {
+        "id": 24,
+        "name": "Ella King",
+        "age": 25,
+        "weight": 58.1
+      },
+      {
+        "id": 25,
+        "name": "Daniel Scott",
+        "age": 27,
+        "weight": 72.5
+      },
+      {
+        "id": 26,
+        "name": "Matthew Green",
+        "age": 32,
+        "weight": 86.2
+      },
+      {
+        "id": 27,
+        "name": "Harper Adams",
+        "age": 23,
+        "weight": 56.7
+      },
+      {
+        "id": 28,
+        "name": "Jack Nelson",
+        "age": 24,
+        "weight": 73.9
+      },
+      {
+        "id": 29,
+        "name": "Sofia Carter",
+        "age": 31,
+        "weight": 63.5
+      },
+      {
+        "id": 30,
+        "name": "William Evans",
+        "age": 35,
+        "weight": 88.0
+      }
+    ]
+  }
